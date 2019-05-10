@@ -1,0 +1,4 @@
+1  cd +python中所要显示图片的路径
+2  d:
+3  tensorboard --logdir=graphs
+4  得到在火狐浏览器中的网址
